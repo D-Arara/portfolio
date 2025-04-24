@@ -4,7 +4,7 @@ function App() {
   return (
     <div >
         <p>
-          I'm Don Arai!
+          I'm Don Arai.
         </p>
     </div>
   );
